@@ -108,7 +108,7 @@ if __name__ == '__main__':
             chatStr = ""
 
         else:
-            print("Chatting...")
+            print("Chatting..")
             chat(query)
 
 
